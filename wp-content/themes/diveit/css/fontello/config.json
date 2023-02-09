@@ -1,0 +1,1644 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9d1b332d90c0dc85c0ad82f99d739827",
+      "css": "puzzle",
+      "code": 59627,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M684.4 600.6C601.1 600.6 533.5 668.1 533.5 751.5 533.5 834.8 601.1 902.3 684.4 902.3 767.7 902.3 835.3 834.8 835.3 751.5 835.3 668.1 767.7 600.6 684.4 600.6ZM768.2 768.2H701.2V835.3H667.6V768.2H600.6V734.7H667.6V667.6H701.2V734.7H768.2V768.2ZM768.2 298.8V550.3C747.3 541.6 724.7 536.2 701.2 534.4V365.9H562.1C529.4 365.9 503.9 351.2 493.7 326.6 483.9 302.8 491.1 274.7 512.5 253.3 556.1 211.6 516.1 164.7 472.8 164.7 428.8 164.7 389.6 211.6 433.1 253.3 454.6 274.7 461.8 302.8 452 326.6 441.8 351.2 416.2 365.9 383.6 365.9H231.8V517.7C231.8 517.7 231.8 517.8 231.8 517.8 252.8 501.6 283.7 481.9 323.8 481.9 376.5 481.9 432.9 532.2 432.9 606.9 432.9 681.8 376.5 732 323.8 732 283.6 732 252.8 712.3 231.8 696.1 231.8 696.1 231.8 696.1 231.8 696.2V835.3H483.2C493.7 860.4 508.8 883 527.4 902.3H164.7V696.2C164.7 663.6 179.4 638 204 627.8 227.8 618 255.9 625.2 277.3 646.6 319.1 690.2 365.9 650.2 365.9 606.9 365.9 562.9 319.1 523.7 277.3 567.3 255.9 588.7 227.8 595.9 204 586.1 179.4 575.9 164.7 550.4 164.7 517.7V298.8H383.6C383.6 298.8 383.7 298.8 383.7 298.8 367.5 277.8 347.8 246.9 347.8 206.8 347.8 154.1 398 97.7 472.8 97.7 547.6 97.7 597.9 154.1 597.9 206.8 597.9 247 578.2 277.8 561.9 298.8 562 298.8 562 298.8 562.1 298.8H768.2Z",
+        "width": 1000
+      },
+      "search": [
+        "iconmonstr-puzzle-6-icon"
+      ]
+    },
+    {
+      "uid": "3fd09d1fb1f461bfd67d96a7b5eb5fd7",
+      "css": "fire",
+      "code": 59628,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M689.9 557C689.9 541.8 755.2 339.6 628.1 278.5 481.8 208.1 441.2 151.9 442.5 61.8 442.4 65.5 354 208.1 411.5 278.5 501 387.5 463.2 471.9 411.5 464.2 324.8 451.2 335.3 338 349.7 309.5 304.3 304.6 251.8 332.9 225.8 371.3 147.8 487.3 317 598.3 256.8 680.8 211 743.6 132.8 619.9 133.1 618.9 40.2 1103.8 714.9 1116.1 752 711.7 763 590.5 872.2 524.5 875.7 526.1 759.4 472.4 689.9 560.8 689.9 557ZM473.4 897.3C311.3 903.4 327.9 781.7 349.7 742.7 377.3 692.8 447.3 683 411.6 618.8 412 619.8 487.5 631.2 535.3 680.7 608.7 756.5 600.4 892.7 473.4 897.3ZM566.3 154.7C547.4 134.4 535.3 110 535.3 92.8 535.3 60.6 561.6 29.7 597.2 0 600.8 25.8 581.8 64.5 597.2 92.8 609.2 113.8 628.2 137.5 628.2 154.7 628.2 177.7 619.6 198.7 597.2 216.6 593.8 208 587.9 179.7 566.3 154.7Z",
+        "width": 1000
+      },
+      "search": [
+        "fire19"
+      ]
+    },
+    {
+      "uid": "cd83cb920530d7d966a262f47a591a3c",
+      "css": "food",
+      "code": 59629,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M940.2 894.8C932.9 870.1 815.2 429.2 799.2 369.2 783.2 309.3 741.5 293.2 694.5 293.2 678.3 293.2 615.8 293.2 541.3 293.2V237.8C826.2 211.3 902.2 0 902.2 0H78.9C78.9 0 142.6 223.2 447.3 239.1V293.2C378 293.2 320.9 293.2 305.5 293.2 258.5 293.2 216.8 309.2 200.8 369.2 184.8 429.2 67.1 870.1 59.8 894.8 50.8 925.7 53.6 966.1 116.6 966.1 123.5 966.1 139.3 966.1 161.5 966.1V1000H830.7V966.2C856.9 966.2 875.7 966.2 883.4 966.2 946.4 966.2 949.2 925.8 940.2 894.8ZM500 350.5C654.3 350.5 779.3 475.4 779.3 629.7S654.3 908.9 500 908.9C345.8 908.9 220.8 784 220.8 629.7S345.8 350.5 500 350.5ZM339.7 506.8L311 486.4 302.6 498.3 330.8 518.3C333.4 514.3 336.7 510.7 339.7 506.8ZM418.5 444.2L402.9 412.7 389.8 419.2 405.7 451.2C410 448.9 414.1 446.3 418.5 444.2ZM297.2 629.7C297.2 628.1 297.7 626.6 297.8 624.9H262.2V639.5H298.2C298.1 636.2 297.2 633.1 297.2 629.7ZM719.1 522.8L712.2 510.1 675.6 530.1C677.9 534.2 680.4 538.5 682.6 542.8L719.1 522.8ZM634.3 428.9L621.8 421.4 601.6 455.1C605.8 457.6 610.3 459.6 614.3 462.3L634.3 428.9ZM510.9 428V390.6H496.3V427.3C497.6 427.3 498.8 426.9 500 426.9 503.8 426.9 507.2 427.8 510.9 428ZM617.5 845.3L598.1 806.1C593.9 808.5 589.7 811.1 585.3 813.1L604.4 851.8 617.5 845.3ZM704.8 766.2L669.3 741C666.6 745.1 663.4 748.7 660.4 752.5L696.3 778 704.8 766.2ZM702.8 629.7C702.8 633 702 636.2 701.9 639.5H745.2V624.9H702.4C702.4 626.6 702.8 628.1 702.8 629.7ZM496.3 832.1V873.7H510.9V831.4C507.2 831.5 503.8 832.5 500 832.5 498.8 832.5 497.6 832.1 496.3 832.1ZM321.2 723.3L288.1 741.3 295.1 754.1 328.1 736.1C325.6 732 323.4 727.7 321.2 723.3ZM406.2 808.4C401.8 806.2 397.5 804 393.3 801.5L373 835.3 385.5 842.8 406.2 808.4ZM414.5 771.7L425.7 778 496 660.5C498.8 661.1 501.5 662.2 504.5 662.2 529.2 662.2 549.2 642.2 549.2 617.6 549.2 593 529.2 573 504.5 573 479.9 573 459.9 593 459.9 617.6 459.9 631.7 466.9 643.7 477.1 652L414.5 771.7ZM504.6 604.9C511.7 604.9 517.4 610.6 517.4 617.6 517.4 624.7 511.7 630.4 504.6 630.4 497.5 630.4 491.8 624.7 491.8 617.6 491.8 610.6 497.5 604.9 504.6 604.9Z",
+        "width": 1000
+      },
+      "search": [
+        "food27"
+      ]
+    },
+    {
+      "uid": "b985a8172425ca9400b140e72bddd64a",
+      "css": "sweet",
+      "code": 59630,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M999.6 227L954.1 211.3 954.5 172.4C954.5 172.4 854.1 133.8 726.6 133.8 619.5 133.8 529.1 161.2 500.1 171.1 471.2 161.2 380.7 133.8 273.6 133.8 146.1 133.8 50.2 171.7 50.2 171.7L50.6 215 0 228.5 0.2 866.2 34.3 852C35.4 851.5 149.5 804.1 254.9 804.1 345.1 804.1 450.7 830.7 482.5 839.3L503.7 845.3 523.6 839C552 830.3 646 804.1 734.3 804.1 838.9 804.1 965.5 851.8 966.7 852.3L1000 864.9 999.6 227ZM476.7 776.9C431.4 765.1 345.1 745.6 267 745.6 190.8 745.6 113.1 764.1 70.6 776.1V218.4C111.8 207.4 182.7 192.3 261.9 192.3 358.9 192.3 444.1 215.1 476.7 225.1V776.9ZM929.7 776.9C884.4 765.1 798.1 745.6 720 745.6 647 745.6 572.9 762.5 529.4 774.5V225C561.6 215 645.3 192.3 741.3 192.3 819.2 192.3 888.9 207.3 929.6 218.3V776.9H929.7ZM603.3 288.2C604 288.1 675.5 275.1 747.9 275.1 820 275.1 884.8 288 885.4 288.2L891 269.3C888.2 268.7 822.9 255.6 747.9 255.6 672.9 255.6 601.3 268.7 598.3 269.2L603.3 288.2ZM885.4 341.4L891 322.5C888.2 321.9 822.9 308.8 747.9 308.8 672.9 308.8 601.3 321.9 598.3 322.5L603.3 341.5C604 341.4 675.4 328.3 747.9 328.3 819.9 328.3 884.7 341.3 885.4 341.4ZM603.3 392.3C604 392.1 675.5 379.1 747.9 379.1 819.9 379.1 884.7 392.1 885.4 392.2L891 373.3C888.2 372.7 822.9 359.6 747.9 359.6 672.9 359.6 601.2 372.7 598.2 373.3L603.3 392.3ZM747.8 432.4C819.9 432.4 884.7 445.3 885.3 445.4L890.9 426.5C888.2 425.9 822.9 412.9 747.8 412.9 672.8 412.9 601.2 425.9 598.2 426.5L603.3 445.5C604 445.4 675.4 432.4 747.8 432.4ZM747.8 483.8C819.9 483.8 884.7 496.8 885.3 496.9L890.9 478C888.2 477.5 822.9 464.4 747.8 464.4 672.9 464.4 601.2 477.4 598.2 478L603.3 497C604 496.9 675.5 483.8 747.8 483.8ZM747.8 517.5C672.9 517.5 601.3 530.6 598.2 531.2L603.3 550.2C604 550.1 675.4 537 747.8 537 820 537 884.7 550 885.3 550.2L890.9 531.2C888.2 530.7 822.9 517.5 747.8 517.5ZM598.3 581.9L603.3 600.9C604 600.8 675.4 587.7 747.9 587.7 819.9 587.7 884.7 600.7 885.4 600.9L891 581.9C888.2 581.4 822.9 568.3 747.9 568.3 672.9 568.2 601.3 581.3 598.3 581.9ZM598.3 632.4L603.3 651.5C604 651.3 675.4 638.3 747.9 638.3 820 638.3 884.8 651.3 885.4 651.4L891 632.5C888.2 631.9 822.9 618.8 747.8 618.8 672.9 618.8 601.3 631.9 598.3 632.4ZM598.3 686.4L603.3 705.4C604 705.2 675.6 692.2 747.9 692.2 820 692.2 884.8 705.2 885.4 705.3L891 686.4C888.2 685.8 822.9 672.7 747.8 672.7 672.9 672.7 601.3 685.8 598.3 686.4ZM257.1 355.6C252.6 355.4 248.1 355.1 243.7 354.9 227.8 354.3 214.5 367.7 212.8 382.9 201.5 385.9 191 390.5 182.2 397.9 174.2 404.7 170.9 415.1 171.6 425.3 145.3 432.8 127.4 447.4 133.9 475H121.8L193.2 627.5H370.2L441.4 475H430.2C428.7 463.1 421.6 452.3 408.1 449.6 408.5 448.7 409 447.8 409.4 446.8 418.7 420.8 399.3 407.7 378.1 401.8 378.9 392.9 376.3 383.6 369.9 375.7 364.9 369.6 357.2 365.9 348.5 363.6 346.9 355.7 342.7 348.7 334.5 344.5 330.5 342.4 326.4 340.3 322.4 338.3 320.7 337.3 318.9 336.4 317.2 335.4 310.4 307.3 264.5 299.4 257.2 333.4 255.3 341.9 255.5 349.2 257.1 355.6ZM207.2 618.1L159.9 489.9 170.7 489.8 218.2 617.4 207.2 618.1ZM236.3 617.5L212 490.6 221.9 490.4 247.2 617.4H236.3V617.5ZM391.6 489.8L402.1 490.4 356 618.2 345.2 617.5 391.6 489.8ZM346.1 489.6L356.2 490.4 329.9 618 320.2 618.3 346.1 489.6ZM300.3 490.4L310.1 491 302.9 617.4H293.6L300.3 490.4ZM267.3 489.6L275.8 617.1 266 617.7 257.5 490.2 267.3 489.6Z",
+        "width": 1000
+      },
+      "search": [
+        "sweet8"
+      ]
+    },
+    {
+      "uid": "40c1d0c80da7cde621c9700182b0ca0f",
+      "css": "chef",
+      "code": 59631,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M658.6 658.2C618.9 699.5 566.3 724.9 508.5 724.9 449.1 724.9 395.2 698.2 355.2 655 202.1 704.3 174.9 825.2 174.9 870.9 174.9 928.8 174.9 1000 174.9 1000H825.1C825.1 1000 825.1 964.7 825.1 904 825.1 856.1 808.1 715.5 658.6 658.2ZM337.6 294V447.8C337.6 457.8 344.1 466 353.1 469 353.1 469.6 353 470 353 470.5 353 550.8 395.4 619.1 454.7 645.4 455.2 645.6 455.7 645.8 456.1 646.1 460.8 648 465.6 649.8 470.5 651.3 471.5 651.6 472.5 651.9 473.5 652.2 478 653.4 482.6 654.4 487.2 655.1 488.4 655.4 489.7 655.7 491 655.8 496.7 656.6 502.5 657.1 508.5 657.1 514.4 657.1 520.1 656.6 525.8 655.9 527 655.7 528.2 655.4 529.3 655.2 534 654.4 538.6 653.5 543.2 652.3 544 652 544.8 651.7 545.7 651.5 550.7 650 555.5 648.3 560.3 646.2 560.6 646.1 560.9 646 561.2 645.8 621.1 619.9 663.9 551.3 663.9 470.5 663.9 470.3 663.9 470.1 663.9 469.9 674.9 468.3 683.5 459.2 683.5 447.8V282.3C710.9 268.5 734 249.6 747.8 223.7 776.1 170.4 778.3 118.8 754 78.3 729.8 38 682.5 14.9 624.2 14.9 582.5 14.9 545.2 33.2 514.6 56.4 487.3 26.1 434.6-1.4 378.3 0.1 341.9 1 290.4 14.5 251.1 73.3 230.9 103.6 224.7 135.7 232.6 168.6 247.8 230.7 311 276.9 337.6 294ZM288.9 98.5C311.7 64.3 342.2 46.4 379.4 45.5 419.9 44.5 460.8 64.8 480.5 86.4 449.5 117.8 430.8 148.1 429.2 150.7 422.7 161.4 426.1 175.4 436.9 181.9 447.6 188.4 461.5 185 468.1 174.3 468.8 173.1 538.6 60.4 624.1 60.4 666.1 60.4 699.2 75.4 715 101.7 730.8 127.9 728.1 163.6 707.6 202.3 670 273.1 509.3 276 450.5 271.1 438.1 270 427 279.4 426.1 291.9 425 304.4 434.3 315.4 446.8 316.4 449.3 316.6 466.4 318 491.5 318 529.8 318 586.5 314.8 638.1 299.8V425.1H383.1V281.2C383.1 272.9 378.6 265.3 371.3 261.3 370.5 260.9 290.9 215.9 276.8 157.7 271.9 137.5 275.8 118.1 288.9 98.5Z",
+        "width": 1000
+      },
+      "search": [
+        "chef20"
+      ]
+    },
+    {
+      "uid": "72109d2fb3088d0e66ea6a9204297651",
+      "css": "spin1",
+      "code": 59438,
+      "src": "fontelico"
+    },
+    {
+      "uid": "f0c301ac841dafc38d8eb1b933fc73e5",
+      "css": "spin2",
+      "code": 59439,
+      "src": "fontelico"
+    },
+    {
+      "uid": "2a6740fc2f9d0edea54205963f662594",
+      "css": "spin3",
+      "code": 59437,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9bd60140934a1eb9236fd7a8ab1ff6ba",
+      "css": "spin4",
+      "code": 59440,
+      "src": "fontelico"
+    },
+    {
+      "uid": "5d2d07f112b8de19f2c0dbfec3e42c05",
+      "css": "spin5",
+      "code": 59441,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9bc2902722abb366a213a052ade360bc",
+      "css": "spin6",
+      "code": 59442,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search",
+      "code": 59399,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail-empty",
+      "code": 59416,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail",
+      "code": 59417,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d73eceadda1f594cec0536087539afbf",
+      "css": "heart",
+      "code": 59562,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f3dc2d6d8fe9cf9ebff84dc260888cdf",
+      "css": "heart-empty",
+      "code": 59560,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "474656633f79ea2f1dad59ff63f6bf07",
+      "css": "star",
+      "code": 59424,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d17030afaecc1e1c22349b99f3c4992a",
+      "css": "star-empty",
+      "code": 59592,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "31972e4e9d080eaa796290349ae6c1fd",
+      "css": "users-group",
+      "code": 59420,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ca2d64f8a3ea7cbf6af45898b2dcf35e",
+      "css": "male",
+      "code": 59421,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9bf7e14698cccdca37a6f1a02cf7d79e",
+      "css": "female",
+      "code": 59422,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c2314ed1d2314b89f9285c53bcbf2548",
+      "css": "child",
+      "code": 59423,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "381da2c2f7fd51f8de877c044d7f439d",
+      "css": "picture",
+      "code": 59404,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dd492243d64e21dfe16a92452f7861cb",
+      "css": "th-large",
+      "code": 59612,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b1887b423d2fd15c345e090320c91ca0",
+      "css": "th",
+      "code": 59613,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f805bb95d40c7ef2bc51b3d50d4f2e5c",
+      "css": "th-list",
+      "code": 59614,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c1f1975c885aa9f3dad7810c53b82074",
+      "css": "lock",
+      "code": 59435,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "657ab647f6248a6b57a5b893beaf35a9",
+      "css": "lock-open",
+      "code": 59561,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5b0772e9484a1a11646793a82edd622a",
+      "css": "pin",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9c1376672bb4f1ed616fdd78a23667e9",
+      "css": "comment",
+      "code": 59589,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "31951fbb9820ed0690f675b3d495c8da",
+      "css": "chat-empty",
+      "code": 59590,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "cd21cbfb28ad4d903cede582157f65dc",
+      "css": "bell",
+      "code": 59591,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bbfb51903f40597f0b70fd75bc7b5cac",
+      "css": "trash",
+      "code": 59611,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f48ae54adfb27d8ada53d0fd9e34ee10",
+      "css": "trash-empty",
+      "code": 59610,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1b5a5d7b7e3c71437f5a26befdd045ed",
+      "css": "doc",
+      "code": 59599,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5408be43f7c42bccee419c6be53fdef5",
+      "css": "doc-text",
+      "code": 59600,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9daa1fdf0838118518a7e22715e83abc",
+      "css": "file-pdf",
+      "code": 59601,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "310ffd629da85142bc8669f010556f2d",
+      "css": "file-word",
+      "code": 59602,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f761c3bbe16ba2d332914ecb28e7a042",
+      "css": "file-excel",
+      "code": 59603,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "edcd4022de8d8df266ef7c42d2658ca5",
+      "css": "file-powerpoint",
+      "code": 59604,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3c961c1a8d874815856fc6637dc5a13c",
+      "css": "file-image",
+      "code": 59605,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e80ae555c1413a4ec18b33fb348b4049",
+      "css": "file-archive",
+      "code": 59606,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "81db033e704eb7c586a365559d7c0f36",
+      "css": "file-audio",
+      "code": 59607,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dd69d9aa589ea7bc0a82a3fe67039f4b",
+      "css": "file-video",
+      "code": 59608,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "26613a2e6bc41593c54bead46f8c8ee3",
+      "css": "file-code",
+      "code": 59609,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e99461abfef3923546da8d745372c995",
+      "css": "cog",
+      "code": 59430,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "98687378abd1faf8f6af97c254eb6cd6",
+      "css": "cogs",
+      "code": 59431,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5bb103cd29de77e0e06a52638527b575",
+      "css": "wrench",
+      "code": 59433,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "21b42d3c3e6be44c3cc3d73042faa216",
+      "css": "sliders",
+      "code": 59434,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f3f90c8c89795da30f7444634476ea4f",
+      "css": "left",
+      "code": 59447,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7bf14281af5633a597f85b061ef1cfb9",
+      "css": "right",
+      "code": 59446,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5de9370846a26947e03f63142a3f1c07",
+      "css": "up",
+      "code": 59445,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e4dde1992f787163e2e2b534b8c8067d",
+      "css": "down",
+      "code": 59432,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "745f12abe1472d14f8f658de7e5aba66",
+      "css": "double-left",
+      "code": 59567,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "fdfbd1fcbd4cb229716a810801a5f207",
+      "css": "double-right",
+      "code": 59568,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "63b3012c8cbe3654ba5bea598235aa3a",
+      "css": "double-up",
+      "code": 59569,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dfec4ffa849d8594c2e4b86f6320b8a6",
+      "css": "double-down",
+      "code": 59570,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "757afacc32d82967975cbb3b45cfb41b",
+      "css": "desktop",
+      "code": 59429,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "500fc1f109021e4b1de4deda2f7ed399",
+      "css": "laptop",
+      "code": 59428,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f001fc3d4daa7da078e8c971e4f36977",
+      "css": "tablet",
+      "code": 59427,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0357f7abbc0babf43509669f332e41e6",
+      "css": "mobile",
+      "code": 59426,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "197375a3cea8cb90b02d06e4ddf1433d",
+      "css": "globe",
+      "code": 59425,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dd6c6b221a1088ff8a9b9cd32d0b3dd5",
+      "css": "checkbox",
+      "code": 59413,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4b900d04e8ab8c82f080c1cfbac5772c",
+      "css": "checkbox-empty",
+      "code": 59414,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "130380e481a7defc690dfb24123a1f0c",
+      "css": "circle",
+      "code": 59412,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "422e07e5afb80258a9c4ed1706498f8a",
+      "css": "circle-empty",
+      "code": 59410,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "81bb68665e8e595505272a746db07c7a",
+      "css": "circle-dot",
+      "code": 59411,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0cd2582b8c93719d066ee0affd02ac78",
+      "css": "sort-asc",
+      "code": 59632,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "27b13eff5eb0ca15e01a6e65ffe6eeec",
+      "css": "sort-desc",
+      "code": 59633,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "aa58e30c7196b1378a6ca78c025cc3b5",
+      "css": "behance",
+      "code": 59496,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "169f51b7e405de8c03cf85a6e8c740ab",
+      "css": "bitbucket",
+      "code": 59497,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "66faf6c4e3b0e4e33f06171e30253e26",
+      "css": "cc",
+      "code": 59498,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "76675011e906d50af404186b489fc76f",
+      "css": "codeopen",
+      "code": 59499,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "01c946ce2ed5500e0a918f2b3a7d1923",
+      "css": "css3",
+      "code": 59500,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "6975c4c656d41a0283d9c52516bf38ed",
+      "css": "delicious",
+      "code": 59501,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "54fad985c676a007c79c346ebaec29d6",
+      "css": "deviantart",
+      "code": 59504,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ef0e69c3275e8c845aca69a79900092d",
+      "css": "digg",
+      "code": 59502,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "199c44bca402ec5a6351f75ba5228375",
+      "css": "dribbble",
+      "code": 59503,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9e34a047fee949eae9b6e613d790d6cf",
+      "css": "dropbox",
+      "code": 59505,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d16ba9078d51e79b5ad6af0235adbd54",
+      "css": "drupal",
+      "code": 59506,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8e04c98c8f5ca0a035776e3001ad2638",
+      "css": "facebook",
+      "code": 59507,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "649004fb1ed50395a33c3780236ba8aa",
+      "css": "flickr",
+      "code": 59508,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a32d12927584e3c8a3dff23eb816d360",
+      "css": "foursquare",
+      "code": 59509,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e7cb72a17f3b21e3576f35c3f0a7639b",
+      "css": "git",
+      "code": 59510,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5e0a374728ffa8d0ae1f331a8f648231",
+      "css": "github",
+      "code": 59511,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5b4b48418155c35459f12171f97c82ff",
+      "css": "gittip",
+      "code": 59512,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f06fe7ff18d1c591bc1183cb3ab105e9",
+      "css": "google",
+      "code": 59513,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b8d0c7d76e87b94882329a88e8e43d3d",
+      "css": "gplus",
+      "code": 59514,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "50fbbd926b2a64fcaf384788056c0e43",
+      "css": "gwallet",
+      "code": 59515,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "237ee28b7e826b75a5b6f51ee3e2bfc1",
+      "css": "hacker-news",
+      "code": 59516,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ff44f01f60948555026580eedf1e39bb",
+      "css": "html5",
+      "code": 59517,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagramm",
+      "code": 59518,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9b9e5f3ee9e3525808ed2afc83e8bb0b",
+      "css": "ioxhost",
+      "code": 59519,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8cd1b9899389237def726c08587a649f",
+      "css": "joomla",
+      "code": 59520,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "486f6d0a05aef9e65eeb07be26793bd3",
+      "css": "jsfiddle",
+      "code": 59521,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5dcf6620378353c5b0089b12d961fedf",
+      "css": "lastfm",
+      "code": 59522,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "47a35af762c8e06f3d152750134c8750",
+      "css": "linux",
+      "code": 59523,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
+      "css": "linkedin",
+      "code": 59524,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "fcdc6d7a89771d2dbd38eb719aafb2ff",
+      "css": "maxcdn",
+      "code": 59525,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9b2e17ef8fc33eb2a1c8b5953d51c595",
+      "css": "meanpath",
+      "code": 59526,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "da8a58b1deff73d1ba89ba1172ca4bcc",
+      "css": "openid",
+      "code": 59527,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bbf50a560f95a4cce5209d47e71cbc30",
+      "css": "pagelines",
+      "code": 59528,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1d2b426ab6db81a58547ba13d8701ad8",
+      "css": "paypal",
+      "code": 59529,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "da851b7c1f84ee83f93b29ae613558dc",
+      "css": "pinterest-circled",
+      "code": 59559,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "657ff9fe5df74f1993937aa4b19cf909",
+      "css": "qq",
+      "code": 59530,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9121e3eb89863f67c8bda378eea01a93",
+      "css": "reddit",
+      "code": 59531,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "cfa8a2588cab42a6ff7ba81eb4fec21b",
+      "css": "renren",
+      "code": 59532,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "58a16628dcbd6456c61218f3d27591be",
+      "css": "skype",
+      "code": 59533,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "87276033a77d0b9b890125c3639e4f87",
+      "css": "slack",
+      "code": 59534,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "be13b8c668eb18839d5d53107725f1de",
+      "css": "slideshare",
+      "code": 59535,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dff942d95eb1b3f1be140e622d0a7c74",
+      "css": "soundcloud",
+      "code": 59536,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "fb4794d89b77ab712ad56c0dc4c76c6b",
+      "css": "spotify",
+      "code": 59537,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b6d6b3561d705330c7ad2155e8ee94ba",
+      "css": "stackexchange",
+      "code": 59538,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e1597911f34fea0a188ae51fe4a2d9a9",
+      "css": "stackoverflow",
+      "code": 59539,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2ec1790207a8ba67a7192c6af1eafec4",
+      "css": "steam",
+      "code": 59540,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3958d12510001a1a172f088893506c27",
+      "css": "stumbleupon",
+      "code": 59541,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d9b33592f56a02af69a36aa64ed452fc",
+      "css": "tencent-weibo",
+      "code": 59542,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b846892636bd74112998bb159bdddf27",
+      "css": "trello",
+      "code": 59543,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "43fcf807461234935e65261328e1dff6",
+      "css": "tumblr",
+      "code": 59544,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e70df9acbabaebfbbf9c1dbc3e52ab13",
+      "css": "twitch",
+      "code": 59545,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter",
+      "code": 59546,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "676cf66256441f09e4934ae6378b3e2d",
+      "css": "vine",
+      "code": 59547,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f3d95e13eb43f3f6b8efe1eb424a1e3b",
+      "css": "vkontakte",
+      "code": 59548,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "34cb6ce62bf3f1efd59e2f5eb0d79f82",
+      "css": "wechat",
+      "code": 59549,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9854b94688e31450fc76aae4c2a45dff",
+      "css": "weibo",
+      "code": 59550,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8aff323697468c4a63993cde00386ec6",
+      "css": "windows",
+      "code": 59551,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "39f52f80e1864df5e5022d7f0f5ff86f",
+      "css": "wordpress",
+      "code": 59552,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "11ebb30e17efcd988a228ade5d3e8c74",
+      "css": "xing",
+      "code": 59553,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7a48de2ac7ca47c78d6c279996ee6250",
+      "css": "yelp",
+      "code": 59554,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a9862b9d5197886c1ad693ecd7120b31",
+      "css": "youtube",
+      "code": 59555,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ba071f2b01f1fed40d8e2366434b6f42",
+      "css": "yahoo",
+      "code": 59556,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2c2ca8a96b31781c9c8056d05c0a8980",
+      "css": "blank",
+      "code": 59558,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5e0191587645a9f5d514ed4b0a0e008a",
+      "css": "lemon",
+      "code": 59557,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "39e2e6682c28e1e3b5f49825a19717c4",
+      "css": "note",
+      "code": 59595,
+      "src": "entypo"
+    },
+    {
+      "uid": "fda731b5a4026685e1a9c7e64228e2b2",
+      "css": "note2",
+      "code": 59597,
+      "src": "entypo"
+    },
+    {
+      "uid": "bbd66ef66bb8fa9edde54d9a90b89150",
+      "css": "user",
+      "code": 59587,
+      "src": "entypo"
+    },
+    {
+      "uid": "ecf8edb95c3f45eb433b4cce7ba9f740",
+      "css": "users",
+      "code": 59586,
+      "src": "entypo"
+    },
+    {
+      "uid": "6274e0601f2feef7eced89146e708de0",
+      "css": "user-add",
+      "code": 59588,
+      "src": "entypo"
+    },
+    {
+      "uid": "6341ebcbe1ed1f6777c1b9527ead368e",
+      "css": "video",
+      "code": 59585,
+      "src": "entypo"
+    },
+    {
+      "uid": "3def559c3c39b8500882e02892b7daa8",
+      "css": "pictures",
+      "code": 59584,
+      "src": "entypo"
+    },
+    {
+      "uid": "85017ab6ca074831a8de771b40e9640c",
+      "css": "camera",
+      "code": 59583,
+      "src": "entypo"
+    },
+    {
+      "uid": "2cfb3f2b46b34a1790aec0aa846297b6",
+      "css": "menu",
+      "code": 59578,
+      "src": "entypo"
+    },
+    {
+      "uid": "14017aae737730faeda4a6fd8fb3a5f0",
+      "css": "check",
+      "code": 59563,
+      "src": "entypo"
+    },
+    {
+      "uid": "c709da589c923ba3c2ad48d9fc563e93",
+      "css": "cancel",
+      "code": 59564,
+      "src": "entypo"
+    },
+    {
+      "uid": "70370693ada58ef0a60fa0984fe8d52a",
+      "css": "plus",
+      "code": 59565,
+      "src": "entypo"
+    },
+    {
+      "uid": "1256e3054823e304d7e452a589cf8bb8",
+      "css": "minus",
+      "code": 59566,
+      "src": "entypo"
+    },
+    {
+      "uid": "3a230e539a4f3b904debd04c6c155034",
+      "css": "help",
+      "code": 59571,
+      "src": "entypo"
+    },
+    {
+      "uid": "63b86fedd4ee9ad2105f54f4888e7088",
+      "css": "info",
+      "code": 59572,
+      "src": "entypo"
+    },
+    {
+      "uid": "513ac180ff85bd275f2b736720cbbf5e",
+      "css": "home",
+      "code": 59582,
+      "src": "entypo"
+    },
+    {
+      "uid": "815503841e980c848f55e0271deacead",
+      "css": "link",
+      "code": 59573,
+      "src": "entypo"
+    },
+    {
+      "uid": "44b9e75612c5fad5505edd70d071651f",
+      "css": "attach",
+      "code": 59575,
+      "src": "entypo"
+    },
+    {
+      "uid": "25fc99a30fecc4021fdcae5fff5ba9ac",
+      "css": "eye",
+      "code": 59576,
+      "src": "entypo"
+    },
+    {
+      "uid": "875ab0f6d417223f6ec76ff7f0a4baed",
+      "css": "tag",
+      "code": 59577,
+      "src": "entypo"
+    },
+    {
+      "uid": "1d2a6c3d9236b88b0f185c7c4530fa52",
+      "css": "flag",
+      "code": 59615,
+      "src": "entypo"
+    },
+    {
+      "uid": "b6fc2f656ef87275889422e19550680a",
+      "css": "reply",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "1a4b54ba5618e5364fc47a3d26c1cf59",
+      "css": "reply-all",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "ec347024a3640deebeeab53fd0d5ad03",
+      "css": "forward",
+      "code": 59396,
+      "src": "entypo"
+    },
+    {
+      "uid": "c3e5dafba1739ef33cc574c7484febf7",
+      "css": "quote",
+      "code": 59574,
+      "src": "entypo"
+    },
+    {
+      "uid": "b6f32db98a3de777f5ae3005191b1831",
+      "css": "code",
+      "code": 59581,
+      "src": "entypo"
+    },
+    {
+      "uid": "c77fd2fd065b5fe16d6f2b41e190b266",
+      "css": "pencil",
+      "code": 59579,
+      "src": "entypo"
+    },
+    {
+      "uid": "bcb868184ff9c35f8aef564f50c0d649",
+      "css": "feather",
+      "code": 59580,
+      "src": "entypo"
+    },
+    {
+      "uid": "28f124a10127a47b9d9472699193d75a",
+      "css": "print",
+      "code": 59397,
+      "src": "entypo"
+    },
+    {
+      "uid": "216891b0093d4dbef19877d5b00d1b16",
+      "css": "retweet",
+      "code": 59623,
+      "src": "entypo"
+    },
+    {
+      "uid": "005a38f6af74b31aeb817fedb09d2175",
+      "css": "keyboard",
+      "code": 59398,
+      "src": "entypo"
+    },
+    {
+      "uid": "97902f87200ce74d181044df02a0458d",
+      "css": "attention",
+      "code": 59616,
+      "src": "entypo"
+    },
+    {
+      "uid": "457c8e2b305e7af74c1be4f07a01ca92",
+      "css": "vcard",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "540b6a4262be769515c79700618b4aea",
+      "css": "address",
+      "code": 59444,
+      "src": "entypo"
+    },
+    {
+      "uid": "a42b598e4298f3319b25a2702a02e7ff",
+      "css": "location",
+      "code": 59443,
+      "src": "entypo"
+    },
+    {
+      "uid": "51727ca007aa35ceabcaffc28934faee",
+      "css": "book-open",
+      "code": 59419,
+      "src": "entypo"
+    },
+    {
+      "uid": "48b79f27e4798f23bafa07b55dbe5b73",
+      "css": "book",
+      "code": 59415,
+      "src": "entypo"
+    },
+    {
+      "uid": "5854855e963044f93b15738a5bb27a29",
+      "css": "phone",
+      "code": 59418,
+      "src": "entypo"
+    },
+    {
+      "uid": "6a7b9d4863bb7e6c79e9457a72d689b6",
+      "css": "tools",
+      "code": 59622,
+      "src": "entypo"
+    },
+    {
+      "uid": "91426c82d94428a33353e495418435e3",
+      "css": "share",
+      "code": 59598,
+      "src": "entypo"
+    },
+    {
+      "uid": "a204f0fa972408eaae5a363c444991b2",
+      "css": "login",
+      "code": 59402,
+      "src": "entypo"
+    },
+    {
+      "uid": "2d76f2c8d13be40694ecadfea7fb83c3",
+      "css": "logout",
+      "code": 59403,
+      "src": "entypo"
+    },
+    {
+      "uid": "8663320a860b00f26e94d3d15c9ba99a",
+      "css": "clock-empty",
+      "code": 59400,
+      "src": "entypo"
+    },
+    {
+      "uid": "7f6916533c0842b6cec699fd773693d3",
+      "css": "hourglass",
+      "code": 59401,
+      "src": "entypo"
+    },
+    {
+      "uid": "465bb89b6f204234e5787c326b4ae54c",
+      "css": "ccw",
+      "code": 59406,
+      "src": "entypo"
+    },
+    {
+      "uid": "bb46b15cb78cc4cc05d3d715d522ac4d",
+      "css": "cw",
+      "code": 59407,
+      "src": "entypo"
+    },
+    {
+      "uid": "3bd18d47a12b8709e9f4fe9ead4f7518",
+      "css": "refresh",
+      "code": 59408,
+      "src": "entypo"
+    },
+    {
+      "uid": "cb13afd4722a849d48056540bb74c47e",
+      "css": "play",
+      "code": 59617,
+      "src": "entypo"
+    },
+    {
+      "uid": "48f2e18872fe74d4579a4c8a1527fc1e",
+      "css": "stop",
+      "code": 59618,
+      "src": "entypo"
+    },
+    {
+      "uid": "d8d378d0ce413f231dfa37592e39c227",
+      "css": "pause",
+      "code": 59619,
+      "src": "entypo"
+    },
+    {
+      "uid": "e188c02f740feff7e2d2bce1950b75fa",
+      "css": "record",
+      "code": 59620,
+      "src": "entypo"
+    },
+    {
+      "uid": "0afbb00323696f49e9c47f4d9fe6390b",
+      "css": "to-end",
+      "code": 59621,
+      "src": "entypo"
+    },
+    {
+      "uid": "ceefe7653a4f6edaacce9e7f196cec5a",
+      "css": "to-start",
+      "code": 59624,
+      "src": "entypo"
+    },
+    {
+      "uid": "18f7c393e3532e40edd45607c9d99988",
+      "css": "fast-forward",
+      "code": 59625,
+      "src": "entypo"
+    },
+    {
+      "uid": "85806fd8ab907f45d34f976354a0df23",
+      "css": "fast-backward",
+      "code": 59626,
+      "src": "entypo"
+    },
+    {
+      "uid": "978aa8facd816df874039e139cb0cdde",
+      "css": "trophy",
+      "code": 59436,
+      "src": "entypo"
+    },
+    {
+      "uid": "d2c6b59d9a239140cb76be0627480855",
+      "css": "dot",
+      "code": 59452,
+      "src": "entypo"
+    },
+    {
+      "uid": "13b11ab72c6ae9c97ee12428e17f3a4e",
+      "css": "dot2",
+      "code": 59593,
+      "src": "entypo"
+    },
+    {
+      "uid": "d10920db2e79c997c5e783279291970c",
+      "css": "dot3",
+      "code": 59594,
+      "src": "entypo"
+    },
+    {
+      "uid": "39c4d0e225a1263a398a47523cb5b9bd",
+      "css": "brush",
+      "code": 59405,
+      "src": "entypo"
+    },
+    {
+      "uid": "vqyhv5kmwcj9zxq28dhq5npykr2k39co",
+      "css": "basket",
+      "code": 59596,
+      "src": "modernpics"
+    },
+    {
+      "uid": "0ohst63cgq1mf1syayvfl8mphms8dbes",
+      "css": "clock",
+      "code": 59409,
+      "src": "modernpics"
+    },
+    {
+      "uid": "572c9ded6a688698dc275b30ff30fefa",
+      "css": "music-light",
+      "code": 59448,
+      "src": "linecons"
+    },
+    {
+      "uid": "9725db89b610135dc76cd8a21afffa83",
+      "css": "search-light",
+      "code": 59449,
+      "src": "linecons"
+    },
+    {
+      "uid": "91bac16b22827347e9ee20477f0b44d2",
+      "css": "mail-light",
+      "code": 59450,
+      "src": "linecons"
+    },
+    {
+      "uid": "b19ac67070bc44e310990016288e449c",
+      "css": "heart-light",
+      "code": 59451,
+      "src": "linecons"
+    },
+    {
+      "uid": "56a0672588820ab1a16363e5d07dd22e",
+      "css": "user-light",
+      "code": 59453,
+      "src": "linecons"
+    },
+    {
+      "uid": "f2a37db235ca1951d60d7ebc9733eb54",
+      "css": "video-light",
+      "code": 59454,
+      "src": "linecons"
+    },
+    {
+      "uid": "b59cc4d390a6df564a055f43c03a6af5",
+      "css": "camera-light",
+      "code": 59455,
+      "src": "linecons"
+    },
+    {
+      "uid": "8573943a49ed6dd8f7819070445baa46",
+      "css": "photo-light",
+      "code": 59456,
+      "src": "linecons"
+    },
+    {
+      "uid": "359f380b2113cb40259269aed843e33d",
+      "css": "attach-light",
+      "code": 59457,
+      "src": "linecons"
+    },
+    {
+      "uid": "47e9e56d2b5abe839bcf1e014d643dea",
+      "css": "lock-light",
+      "code": 59458,
+      "src": "linecons"
+    },
+    {
+      "uid": "a58c05a8a3ba59ababd4860a30892560",
+      "css": "eye-light",
+      "code": 59459,
+      "src": "linecons"
+    },
+    {
+      "uid": "930c31d4c72bd792b5dceb6de607c3e0",
+      "css": "tag-light",
+      "code": 59460,
+      "src": "linecons"
+    },
+    {
+      "uid": "06a2fbb04dffecdb444936073cae9123",
+      "css": "thumbs-up-light",
+      "code": 59461,
+      "src": "linecons"
+    },
+    {
+      "uid": "2aeb4987b469d22fcb8b471b6d2cdfff",
+      "css": "pencil-light",
+      "code": 59462,
+      "src": "linecons"
+    },
+    {
+      "uid": "5b1a68729f60f8be3769238379d1b8e9",
+      "css": "comment-light",
+      "code": 59463,
+      "src": "linecons"
+    },
+    {
+      "uid": "1ea8ad6dbe1ae9a73565ad16cf88de19",
+      "css": "location-light",
+      "code": 59464,
+      "src": "linecons"
+    },
+    {
+      "uid": "c2958cfd1eed4434ab6e4bd6ab337af9",
+      "css": "cup-light",
+      "code": 59465,
+      "src": "linecons"
+    },
+    {
+      "uid": "2cc73cc335f054682c04fe63439c4dcb",
+      "css": "trash-light",
+      "code": 59466,
+      "src": "linecons"
+    },
+    {
+      "uid": "f978da58836f23373882916f05fb70b4",
+      "css": "doc-light",
+      "code": 59467,
+      "src": "linecons"
+    },
+    {
+      "uid": "29f4bce4a60650057c5248e30baa15a6",
+      "css": "note-light",
+      "code": 59494,
+      "src": "linecons"
+    },
+    {
+      "uid": "484b4ad2058d17849f205c4054b6f315",
+      "css": "cog-light",
+      "code": 59492,
+      "src": "linecons"
+    },
+    {
+      "uid": "3e2bd88137dd7ceec98b4bfd8640e5ec",
+      "css": "params-light",
+      "code": 59491,
+      "src": "linecons"
+    },
+    {
+      "uid": "43e4647c57186b5e06874621b5e665be",
+      "css": "calendar-light",
+      "code": 59488,
+      "src": "linecons"
+    },
+    {
+      "uid": "143d93c9abdee0f4a7a2a810acc62b91",
+      "css": "sound-light",
+      "code": 59487,
+      "src": "linecons"
+    },
+    {
+      "uid": "ee22dc89481ea63f27654f59dcace804",
+      "css": "clock-light",
+      "code": 59484,
+      "src": "linecons"
+    },
+    {
+      "uid": "fb3ee9c192c946342e0cdd12f06d7774",
+      "css": "lightbulb-light",
+      "code": 59483,
+      "src": "linecons"
+    },
+    {
+      "uid": "cc5e3696cf6c3ad8c32daaea05355a99",
+      "css": "tv-light",
+      "code": 59480,
+      "src": "linecons"
+    },
+    {
+      "uid": "7697f1734d53461137f05faab3f79cf0",
+      "css": "desktop-light",
+      "code": 59479,
+      "src": "linecons"
+    },
+    {
+      "uid": "6a9f3405aba67bcaee81e7ea38946b27",
+      "css": "mobile-light",
+      "code": 59478,
+      "src": "linecons"
+    },
+    {
+      "uid": "52cde78d270e411ccf22c9ec02910d69",
+      "css": "cd-light",
+      "code": 59477,
+      "src": "linecons"
+    },
+    {
+      "uid": "efaf7e97e8b1aa7c2b52cc29432c96ca",
+      "css": "inbox-light",
+      "code": 59476,
+      "src": "linecons"
+    },
+    {
+      "uid": "1e89103762be72b0720eda0468e62b90",
+      "css": "globe-light",
+      "code": 59475,
+      "src": "linecons"
+    },
+    {
+      "uid": "f6eb7f8aed5dc03a323d5ef2895ae50b",
+      "css": "cloud-light",
+      "code": 59474,
+      "src": "linecons"
+    },
+    {
+      "uid": "6fbd93c0d220507921015a15575009e5",
+      "css": "paper-plane-light",
+      "code": 59473,
+      "src": "linecons"
+    },
+    {
+      "uid": "04309fefab5210bf502d278d65d134cf",
+      "css": "fire-light",
+      "code": 59472,
+      "src": "linecons"
+    },
+    {
+      "uid": "4b7f817f780705a5d267ad59e855da91",
+      "css": "graduation-light",
+      "code": 59471,
+      "src": "linecons"
+    },
+    {
+      "uid": "cdcc1a6693235d1205370c1f47d5e7ad",
+      "css": "megaphone-light",
+      "code": 59470,
+      "src": "linecons"
+    },
+    {
+      "uid": "02ad0683eaa9826f396fa7ccf1f1fb25",
+      "css": "database-light",
+      "code": 59469,
+      "src": "linecons"
+    },
+    {
+      "uid": "75347b319511175da51af3955919dbac",
+      "css": "key-light",
+      "code": 59468,
+      "src": "linecons"
+    },
+    {
+      "uid": "6cc796276697d8a75ae21bb2df4badc9",
+      "css": "beaker-light",
+      "code": 59493,
+      "src": "linecons"
+    },
+    {
+      "uid": "f5053e43ef8be31afb905801449ae26d",
+      "css": "truck-light",
+      "code": 59495,
+      "src": "linecons"
+    },
+    {
+      "uid": "b8e88705f42bd79580be828233c65da0",
+      "css": "money-light",
+      "code": 59490,
+      "src": "linecons"
+    },
+    {
+      "uid": "b08f8c33777cd6b512d9576fc6e7f405",
+      "css": "food-light",
+      "code": 59489,
+      "src": "linecons"
+    },
+    {
+      "uid": "5d27926667773d186de09fda4312af27",
+      "css": "shop-light",
+      "code": 59486,
+      "src": "linecons"
+    },
+    {
+      "uid": "f8e8b267a9b949804f0c9dd7fed8e477",
+      "css": "diamond-light",
+      "code": 59485,
+      "src": "linecons"
+    },
+    {
+      "uid": "862d4faacb164c0412cb3249d43d5d39",
+      "css": "t-shirt-light",
+      "code": 59482,
+      "src": "linecons"
+    },
+    {
+      "uid": "d58dc0a0927a7dea2992f615f2fbf400",
+      "css": "wallet-light",
+      "code": 59481,
+      "src": "linecons"
+    },
+    {
+      "uid": "f06941dfcb90dc24b987d810898c4310",
+      "css": "arrow-down",
+      "code": 59634,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f6d72aa5ef8e8f0e553012af9a29a87e",
+      "css": "arrow-left",
+      "code": 59635,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "fb94e23ae1e7660aa63cc5f351ec7560",
+      "css": "arrow-right",
+      "code": 59636,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "720f98e7580b7987c8dc542513d1d440",
+      "css": "arrow-up",
+      "code": 59637,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9affc98d652b86628d650ee58dbf0357",
+      "css": "basket-1",
+      "code": 59638,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c0043846640f6efaa7a0a2d56fa1298a",
+      "css": "icon2",
+      "code": 59639,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M538 635.8L538 635.8C519 635.8 501.8 628.2 485 620.9 473.3 615.8 462.3 610.9 452.6 609.7 442.8 608.4 431.4 610.3 418.9 612.2 408.1 613.9 396.8 615.6 385.5 615.6 372.8 615.6 361.9 613.4 352.3 608.8 331.4 598.8 319.4 578.3 308.8 560.3 304.9 553.7 301.2 547.4 297.3 541.8 293.9 536.9 291.2 533.7 288.6 531.2 285.4 528.2 281.3 525.4 278.1 523.3 272.2 519.5 265.6 516.1 258.7 512.4 243 504.1 226.7 495.5 215.1 481.5 212.7 478.7 210.2 475.5 208 471.4 196.5 450.2 199 426.1 201.2 404.8L202 397.1C202.8 388.1 203.4 378.6 202.1 371.1 200.7 363.4 196.6 354.5 192.5 346.1L189.1 339.4C179.6 320.5 168.9 299 172 275.5 172.7 270.3 174 265.2 176 260.3 182.2 244.3 193.7 231.2 204.9 218.6 211.9 210.7 218.5 203.3 223 195.8L223.9 194.4C224.6 193.3 225.3 192.2 225.9 191 229.9 182.6 231.9 170.9 233.9 158.6 235.4 149.4 237 139.9 239.6 130.6 242.2 121.2 247 107.3 258 95.9 274.8 78.2 298.6 73.1 319.5 68.7 331.6 66.1 343.1 63.7 351.3 59.2L353.1 58C361.3 53 369.3 45.1 377.8 36.8 392.8 22 409.9 5.3 433 1 436.8 0.3 440.7 0 444.7 0 463.6 0 480.9 7.6 497.6 15 509.3 20.2 520.4 25 530 26.3 534.3 26.9 539.1 26.6 543.9 26.3 550.2 25.8 556.7 24.8 563.3 23.9 578.2 21.7 594.2 19.5 609.3 21.5 617.6 22.6 624.3 24.4 630.3 27.3 651.1 37.3 663.1 57.7 673.7 75.7 680.3 87 686.6 97.7 694.1 104.8 701.6 111.9 712.6 117.6 724.2 123.6 742.7 133.2 763.8 144.1 774.8 164.5 786.3 185.6 783.8 209.7 781.6 230.9 780.3 243.4 779.1 255.3 780.8 264.7 782.6 274.3 788 285 793.7 296.4 803.2 315.3 814 336.8 810.9 360.3 807.8 383.6 791.9 401.4 777.9 417.2 774.5 421 771 424.9 767.8 428.8 762.5 435.3 759.2 440.2 757 444.8 753 453.2 751.1 464.8 749.1 477.1 745.7 498.3 741.8 522.2 724.9 539.9 708.1 557.6 684.3 562.7 663.3 567.2 651.1 569.8 639.7 572.3 631.5 576.7 627.1 579.1 622.6 582.8 619.5 585.4 614.5 589.6 609.8 594.3 605 599 589.9 613.8 572.9 630.5 549.7 634.8 549.1 634.9 548.5 635 547.9 635 547.7 635 547.5 635 547.2 635.1 544.2 635.6 541.1 635.8 538 635.8ZM445.9 570.4C449.9 570.4 453.9 570.6 457.7 571.1 472.8 573.1 486.9 579.3 500.6 585.3 514.3 591.3 527.1 596.9 537.9 596.9H537.9C539.3 596.9 540.8 596.8 542.2 596.6 542.6 596.5 543.1 596.5 543.5 596.4 543.6 596.4 543.6 596.4 543.7 596.4 554.8 593.8 565.9 582.9 577.7 571.3 583.1 566 588.5 560.7 594.1 555.9 601.1 549.8 606.9 545.7 612.9 542.5 625.9 535.4 640.7 532.3 655 529.2 672 525.6 688 522.1 696.6 513.1 705.2 504.1 707.8 487.9 710.5 470.8 712.8 456.3 715.2 441.4 721.7 428 725.3 420.5 730.2 413.1 737.6 404.1 741.2 399.8 744.9 395.5 748.7 391.3 760 378.6 770.7 366.6 772.2 355.1 773.8 343.4 766.5 328.9 758.8 313.7 752.1 300.4 745.2 286.6 742.4 271.5 739.7 256.6 741.3 241.4 742.8 226.7 744.6 209.6 746.2 193.4 740.5 182.8 735.2 172.9 721.1 165.6 706.2 157.9 692.7 150.9 678.7 143.6 667.2 132.7 655.7 121.8 647.8 108.2 640.1 95 631.6 80.5 623.6 66.8 613.5 62 611.3 60.9 608.3 60.2 604.2 59.6 593.4 58.2 581.8 60.1 568.9 62 561.5 63.1 554.1 64.2 546.9 64.7 539.3 65.3 532 65.4 525 64.5 509.7 62.5 495.6 56.2 481.9 50.2 466.3 43.3 452.1 36.6 439.9 38.9 428.5 41 417 52.2 404.8 64.1 395.1 73.6 385.1 83.4 373.2 90.7 371.9 91.6 370.7 92.4 369.4 93.1 356.6 100.1 341.8 103.2 327.5 106.3 310.5 109.9 294.5 113.3 286 122.4 282.1 126.4 279.4 132.1 276.9 140.8 274.9 148 273.5 156.1 272.1 164.6 269.7 179.1 267.2 194 260.8 207.5 259.6 209.9 258.2 212.3 256.7 214.7L255.9 215.9C249.6 226.2 241.5 235.2 233.8 244 224.5 254.5 215.7 264.5 212 274.1 211.2 276.2 210.6 278.3 210.3 280.3 208.7 292 216 306.4 223.6 321.7L227.1 328.7C232.5 339.6 237.8 351.5 240.1 363.9 242.3 376 241.6 388.6 240.5 400.4L239.7 408.5C237.9 425.7 236.3 442 242 452.6 242.7 454 243.8 455.1 244.9 456.4 251.6 464.5 263.8 471 276.8 477.8 284.1 481.7 291.7 485.7 299 490.3 303.7 493.3 309.8 497.5 315.4 502.7 321.2 508.2 325.7 514.3 329.1 519.1 333.9 526 338.2 533.2 342.3 540.2 350.8 554.7 358.9 568.5 369.1 573.3 378.6 577.9 395.2 576.1 413 573.4 423.7 572.1 434.8 570.4 445.9 570.4ZM491.3 505.3C484.5 505.3 477.2 504.8 469.1 503.9 432.8 499.6 398.8 484.9 370.9 461.5 354.1 447.4 339.9 430.4 328.8 411 326 406.2 323.3 400.9 320.6 395 312.1 376.3 306.9 356.7 304.9 336.7 304.3 330.6 304 324.3 304 318.1 304 302.4 306.2 286.3 310.4 270.2 316 249 325 229.4 337.1 211.9 357.5 182.3 385.8 159.2 418.8 145.4 434.6 138.8 451.5 134.3 469.1 132.2 477.2 131.2 484.5 130.8 491.3 130.8 508.4 130.8 525.6 133.3 542.6 138.1 563.5 144 583.2 153.6 600.9 166.4 649.6 201.6 678.6 258.4 678.6 318.1 678.6 336.1 676 354 670.8 371.5 659.2 410.7 634.3 445.7 600.9 469.9 583.2 482.7 563.6 492.3 542.6 498.2 525.7 502.8 508.4 505.3 491.3 505.3ZM491.4 169.5C486.1 169.5 480.4 169.9 473.8 170.7 459.8 172.4 446.4 175.9 434 181.1 407.8 192.1 385.4 210.3 369.2 233.9 359.6 247.7 352.5 263.2 348.1 280.1 344.7 292.9 343 305.7 343 318.1 343 323.1 343.3 328 343.8 332.8 345.4 348.7 349.5 364.2 356.2 379 358.2 383.3 360.3 387.6 362.7 391.7 371.6 407.1 382.8 420.6 396.1 431.8 418.2 450.4 445.1 462 473.9 465.4 480.5 466.2 486.2 466.6 491.5 466.6 505 466.6 518.7 464.7 532.2 460.8 548.8 456.1 564.3 448.5 578.3 438.4 604.9 419.2 624.6 391.5 633.8 360.4 637.9 346.6 640 332.3 640 318.1 640 270.8 617 225.8 578.3 197.8 564.3 187.6 548.7 180.1 532.2 175.4 518.5 171.4 504.8 169.5 491.4 169.5ZM307.3 1000C304.8 1000 302.3 999.5 299.9 998.5 292.6 995.5 287.9 988.4 287.9 980.6V523.6C287.9 512.9 296.6 504.2 307.3 504.2 318 504.2 326.7 512.9 326.7 523.6V933.8L487.6 772.9C495.2 765.3 507.5 765.3 515.1 772.9L656 913.6V542.7C656 532 664.7 523.3 675.4 523.3S694.8 532 694.8 542.7V960.5C694.8 968.4 690.1 975.4 682.8 978.4 675.6 981.4 667.2 979.8 661.6 974.2L501.4 814 321 994.3C317.3 998 312.4 1000 307.3 1000Z",
+        "width": 1000
+      },
+      "search": [
+        "icon2"
+      ]
+    },
+    {
+      "uid": "232e32ed54e4733d7c8f6a6c19f55e29",
+      "css": "icon3",
+      "code": 59640,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M807.5 909.8C803.3 909.8 799.1 908.4 795.6 905.6 787.3 899 785.9 886.9 792.5 878.6L924.4 712.1C663.9 794.1 282.1 806.5 168.3 808.4L201.1 867.4C206.3 876.7 202.9 888.4 193.7 893.5 184.4 898.7 172.7 895.3 167.6 886.1L119 798.9C115.7 792.9 115.8 785.7 119.2 779.8 122.6 773.9 128.9 770.3 135.8 770.3 141.3 770.3 685.4 768.5 973.7 654 981.8 650.8 991 653.4 996.2 660.4 1001.4 667.4 1001.3 677 995.8 683.8L822.6 902.5C818.8 907.3 813.2 909.8 807.5 909.8ZM595.4 947.1C593 947.1 590.5 947 588 946.9 562.4 945.6 540.9 934.2 520.2 923.3 497.4 911.2 477.6 900.7 456.4 905.9 444.8 908.7 433.1 914.5 420.6 920.6 391.3 935 354.8 953 312.6 928.5 268.1 902.6 233.9 885.7 198.6 904.2 191.1 908.1 184.9 911.9 179.2 915.4 160.8 926.6 143.3 937.3 109.8 937.3 109.1 937.3 108.4 937.3 107.7 937.3 88 937.1 72.1 935.4 57.8 932.1 50.9 930.5 44.7 927.9 38.7 925.5 31.8 922.6 25.2 919.9 20.1 919.9 19.8 919.9 19.5 919.9 19.2 919.9 8.8 920 0.3 911.7 0 901.3-0.3 890.7 8.1 881.9 18.7 881.6 31.8 880.9 43.4 885.9 53.4 890 58.2 892 62.7 893.8 66.6 894.7 78.2 897.4 91.4 898.7 108.3 898.9 132.1 899.5 141.7 893.3 159.2 882.6 165.6 878.7 172.6 874.5 180.8 870.1 237.6 840.3 292.1 872 332 895.2 355.2 908.7 373.5 901 403.7 886.1 417.4 879.3 431.7 872.3 447.4 868.5 482.7 859.8 512.2 875.5 538.2 889.3 556 898.7 572.9 907.7 590 908.5 620.3 909.9 642.8 898.5 669 885.1 675.5 881.8 682.2 878.4 689.1 875.1 727.8 856.7 763 871.1 794.1 883.7 798.9 885.7 803.7 887.6 808.6 889.5L811.4 890.6C834.1 899.3 855.5 907.5 877.2 903.1 888.6 900.8 900.7 895 913.5 888.8 932.8 879.5 952.8 869.9 975.2 869.9 975.4 869.9 975.6 869.9 975.8 869.9 986.4 870 995 878.7 994.9 889.3 994.8 899.9 985.9 908.5 975.5 908.4 975.4 908.4 975.3 908.4 975.2 908.4 961.5 908.4 946.3 915.7 930.1 923.5 915.7 930.4 900.8 937.6 884.7 940.8 852.1 947.3 823.2 936.3 797.6 926.5L794.9 925.4C789.8 923.4 784.7 921.4 779.7 919.3 748.3 906.5 727.9 899.2 705.7 909.8 699.1 912.9 692.8 916.1 686.6 919.3 659.7 933.1 632 947.1 595.4 947.1ZM522.4 761.8C511.8 761.8 503.2 753.2 503.2 742.6V636.8C503.2 626.2 511.8 617.6 522.4 617.6 533 617.6 541.6 626.2 541.6 636.8V742.6C541.6 753.2 533 761.8 522.4 761.8ZM197.6 681.6C188.8 681.6 181 675.5 178.9 666.8 176.7 657.4 181.8 647.9 190.7 644.5 406.3 562.2 504.6 70.5 505.5 65.5 506.7 59.6 510.4 54.7 515.8 52 521.1 49.3 527.4 49.3 532.8 51.9 891.8 225.6 930.8 587.4 931.1 591.1 932.1 601.7 924.4 611.1 913.8 612.1L199.4 681.5C198.9 681.6 198.2 681.6 197.6 681.6ZM538 97.6C517.5 189.1 437.6 503.2 279.7 635.1L890 575.8C877 503.3 812.1 241.9 538 97.6Z",
+        "width": 1000
+      },
+      "search": [
+        "icon3"
+      ]
+    },
+    {
+      "uid": "2f2ce00e504c4973ba82c3efa7cceee4",
+      "css": "icon4",
+      "code": 59641,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M196.7 995C186.6 995 177 995 165.2 992.6 142.6 987 135.9 972.2 133.8 963.9 130.6 951.3 132.9 939.6 140.5 928.1 141.2 927 142.1 926 143 925L194.1 873.9C203.7 864.3 207.8 853.9 207.8 839.1 207.8 827.3 202.5 814.7 194.1 806.3 185.7 797.9 173.4 793.1 160.3 793.1 147.2 793.1 134.9 797.9 126.5 806.3L75.4 857.4C63.6 869.2 46.5 872.5 33.4 865.7 24.9 862.8 12.8 855.3 8.1 836.2 7.9 835.6 7.8 834.9 7.7 834.2-1.1 775.2 18.6 713.7 60.2 669.9 95.6 634.5 144.5 614.5 194.8 614.5 211.9 614.5 226.9 616.2 240.2 619.6L594.5 265.3C578.3 201 596.8 133.3 644.2 85.9 688.3 41.8 749.2 22.4 809.5 33.1 810 33.2 810.4 33.3 810.9 33.4 832.5 38.8 839.3 53.6 841.3 61.9 844.4 74.5 842.2 86.2 834.6 97.7 833.9 98.8 833 99.8 832.1 100.8L780.9 152C771.3 161.6 767.2 172 767.2 186.8 767.2 198.6 772.5 211.2 780.9 219.6 789.3 228 801.6 232.8 814.7 232.8 827.8 232.8 840.1 228 848.5 219.6L899.6 168.5C911.4 156.7 928.5 153.4 941.6 160.2 950.1 163.1 962.1 170.6 966.9 189.7 967.1 190.3 967.2 191 967.3 191.7 976.1 250.8 956.4 312.2 914.8 356 879.4 391.4 830.5 411.4 780.2 411.4 763.1 411.4 748.2 409.7 734.8 406.3L382.5 760.6C398.7 824.9 380.2 892.6 332.8 940 295 975.6 246.8 995 196.7 995ZM173 952.9C173.3 953 173.7 953.1 174.1 953.2 181 954.6 187.2 954.6 196.7 954.6 236.4 954.6 274.8 939.1 304.6 911 344.3 871.3 357.9 815 340.5 761 338.2 753.8 340.1 745.9 345.4 740.5L714.9 369C720.5 363.3 728.9 361.5 736.4 364.3 748.2 368.7 762.6 370.9 780.4 370.9 820 370.9 858.5 355.2 886 327.7 918.5 293.5 934.1 245.2 927.6 198.7 927.5 198.5 927.5 198.3 927.4 198.2L877.3 248.3C861.3 264.3 838.6 273.4 814.8 273.4 791 273.4 768.3 264.3 752.3 248.3 736.3 232.3 726.7 209.3 726.7 186.8 726.7 161.3 735.1 140.5 752.3 123.3L801.8 73.9C802 73.6 802.1 73.3 802.1 73.1 802 73.1 801.8 73 801.6 73 754.4 64.8 707.4 80.1 672.9 114.7 632.7 154.9 619.2 211.1 636.6 265.1 638.9 272.3 637 280.3 631.6 285.6L260.1 657C254.5 662.6 246.1 664.4 238.7 661.6 226.9 657.2 212.5 655 194.7 655 155.1 655 116.6 670.7 89.1 698.2 56.6 732.4 41 780.7 47.5 827.2 47.6 827.4 47.6 827.6 47.7 827.7L97.8 777.6C113.8 761.6 136.5 752.5 160.3 752.5S206.8 761.6 222.8 777.6C238.8 793.6 248.4 816.6 248.4 839.1 248.4 864.6 240 885.3 222.8 902.6L173.3 952.1C173.1 952.4 173.1 952.7 173 952.9ZM876.4 995C863.3 995 851 989.9 841.8 980.7L623.4 762.3C614.2 753.1 609.1 740.8 609.1 727.7S614.2 702.3 623.4 693.1L694.9 621.6C713.3 603.2 745.6 603.2 764 621.6L982.4 840C991.6 849.2 996.7 861.5 996.7 874.6S991.6 900 982.4 909.2L910.9 980.7C901.7 990 889.4 995 876.4 995ZM729.5 647.9C728.2 647.9 725.7 648.2 723.6 650.3L652 721.9C649.9 724 649.6 726.5 649.6 727.8S649.9 731.6 652 733.7L870.4 952.1C872.5 954.2 875 954.5 876.3 954.5 877.6 954.5 880.1 954.2 882.2 952.1L953.7 880.6C955.8 878.5 956.1 876 956.1 874.7S955.8 870.9 953.7 868.8L735.4 650.3C733.3 648.2 730.8 647.9 729.5 647.9ZM435.6 454.2C430.4 454.2 425.2 452.2 421.3 448.3L234.2 261.2C226.3 253.3 226.3 240.5 234.2 232.6 242.1 224.7 254.9 224.7 262.8 232.6L449.9 419.7C457.8 427.6 457.8 440.4 449.9 448.3 446 452.2 440.8 454.2 435.6 454.2ZM673.5 692C668.3 692 663.1 690 659.2 686.1L550.2 577.1C542.3 569.2 542.3 556.4 550.2 548.5S570.9 540.6 578.8 548.5L687.8 657.5C695.7 665.4 695.7 678.2 687.8 686.1 683.8 690 678.6 692 673.5 692ZM156.8 279.6C150.4 279.6 144.4 276.6 140.5 271.4L5 88.6C-1 80.5-0.1 69.3 7 62.2L58 11.1C64.9 4.2 75.8 3.2 83.8 8.7L272.5 138.4C278.8 142.7 282.1 150.3 281.1 157.8L268.6 249.5C267.4 258.5 260.3 265.6 251.3 266.8L159.6 279.3C158.7 279.6 157.8 279.6 156.8 279.6ZM47.9 78.5L166 237.7 230.6 228.9 239.3 164.8 74.8 51.7 47.9 78.5Z",
+        "width": 1000
+      },
+      "search": [
+        "icon4"
+      ]
+    },
+    {
+      "uid": "408e80c966716224bf9d67174afd0bf6",
+      "css": "icon5",
+      "code": 59642,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M395.5 999C372.9 999 348.9 992.7 326.2 975.5 270.9 935.5 256 882.3 281.1 813.3 284.8 803.2 296 797.9 306.1 801.6 316.2 805.3 321.4 816.5 317.8 826.6 298.7 879.1 308.2 914.3 349.4 944.1 398.2 980.9 452.3 942.6 458.8 937.7L506.5 890.9 557.6 843.5 900.7 510.1C845.5 468 833 406.2 834.8 364.6 764.1 357.6 721 301.8 702.2 260 614 286.5 536.9 239.6 533.4 237.4 524.2 231.7 521.5 219.7 527.1 210.6 532.8 201.5 544.8 198.7 553.9 204.3 554.6 204.7 628.9 249.4 705.9 217.3 711 215.2 716.7 215.3 721.7 217.6 726.7 219.9 730.4 224.3 732.1 229.5 733.4 233.6 764.9 330.8 855.6 326.1 861.8 325.9 867.5 328.3 871.4 332.9 875.3 337.5 876.9 343.7 875.6 349.6 874.8 353.3 857.6 443 940.9 490.4 946.2 493.4 949.8 498.8 950.6 504.9 951.4 511 949.2 517.1 944.8 521.4L584.3 872 533.3 919.3 485.2 966.5C484.7 967 484.2 967.4 483.7 967.8 466.2 981.8 432.8 999 395.5 999ZM360.7 842.1C297.6 842.1 256 810 233.4 744.1 229.1 733.7 222 710.4 214.2 681.3L193.2 615C139.4 430.7 49.7 122 49.7 122 48.1 116.5 49 110.6 52.2 105.8 55.4 101 60.5 97.9 66.2 97.2 67 97.1 153 85.6 193 12.4 195.6 7.6 200.2 4.1 205.5 2.8 210.8 1.5 216.5 2.5 221 5.6 221.4 5.8 260.2 31.5 305.7 31.5 332.9 31.5 357.2 22.2 377.8 3.9 382.3-0.1 388.5-1.8 394.4-0.6 400.3 0.5 405.4 4.4 408.1 9.8 409.5 12.6 445.3 80.8 523.8 80.8 531.3 80.8 539.1 80.2 547 78.9 553.1 77.9 559.2 79.9 563.6 84.1 568 88.4 570.1 94.5 569.4 100.6L506.6 599.7 496.3 668.5 488.2 735.4C488.1 736 488 736.7 487.9 737.3 480 772.5 445.2 839.7 369.7 841.8 367 842 363.8 842.1 360.7 842.1ZM93 131.4C113.8 203 185.1 448 230.6 603.5L251.7 670.3C260.8 704.3 267 723.3 269.6 729.5 269.8 730 270 730.4 270.1 730.9 288.1 784.2 317.1 805.4 368.2 802.9 429.3 801.2 447.6 737.4 449.7 729.6L457.7 663.3 468 594.4 527.7 119.7C452 121.1 405.9 74.5 385.6 46.8 361.8 62.5 334.9 70.4 305.6 70.4 268.4 70.4 235.8 57.4 216.7 47.8 179.6 101.8 123.8 123.3 93 131.4ZM274.6 539.8C268.4 539.8 262.3 536.8 258.5 531.3 252.4 522.4 254.7 510.3 263.6 504.2 266.6 502.1 338.3 454.1 415.8 496.7 425.2 501.9 428.7 513.7 423.5 523.2 418.3 532.7 406.5 536.1 397 530.9 340.3 499.7 286.1 536 285.6 536.3 282.2 538.7 278.4 539.8 274.6 539.8ZM311.4 614.8C305.1 614.8 298.9 611.8 295.2 606.2 289.2 597.3 291.5 585.3 300.3 579.3 302 578.1 342.7 550.9 386.6 575.1 396 580.3 399.5 592.1 394.3 601.6 389.1 611.1 377.2 614.5 367.8 609.3 345.1 596.8 323.1 611 322.2 611.6 318.8 613.7 315.1 614.8 311.4 614.8ZM541.6 766.7C534.4 766.7 527.5 762.7 524.1 755.9 512.7 732.8 494.3 716 469.5 705.9 459.5 701.8 454.7 690.5 458.8 680.5 462.9 670.5 474.2 665.7 484.2 669.8 517.6 683.4 543.5 707.2 559 738.6 563.8 748.2 559.8 760 550.2 764.7 547.4 766.1 544.5 766.7 541.6 766.7ZM472.9 814.3C465.7 814.3 458.8 810.3 455.4 803.5 452.1 796.9 447.7 791.8 441.7 787.7 432.8 781.7 430.4 769.5 436.5 760.6 442.6 751.7 454.7 749.4 463.6 755.4 475.1 763.2 484.2 773.6 490.4 786.1 495.2 795.8 491.2 807.5 481.6 812.2 478.8 813.6 475.8 814.3 472.9 814.3Z",
+        "width": 1000
+      },
+      "search": [
+        "icon5"
+      ]
+    },
+    {
+      "uid": "c5dc0770bc7585e2cdb444b930b00ba3",
+      "css": "icon1",
+      "code": 59643,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M499.7 980.7C309.3 980.7 138.5 852.7 70.4 660.7H19.7C12.9 660.7 6.5 657.2 2.8 651.5-0.9 645.8-1.4 638.5 1.5 632.3L121.5 372.3C124.7 365.3 131.7 360.8 139.4 360.7 147.1 360.4 154.2 364.9 157.6 371.8L287.6 631.8C290.7 638 290.4 645.4 286.7 651.3 283.1 657.2 276.6 660.8 269.7 660.8H231.6C283.3 725.9 348.5 770.8 419.6 790.1V275.6C382.3 249.6 359.6 206.5 359.6 160.7 359.6 83.5 422.4 20.7 499.6 20.7S639.6 83.5 639.6 160.7C639.6 206.6 616.9 249.6 579.6 275.6V790C650.7 770.7 715.9 725.8 767.6 660.7H729.5C722.6 660.7 716.1 657.1 712.5 651.2 708.9 645.3 708.5 637.9 711.6 631.7L841.6 371.7C845.1 364.8 851.9 360.3 859.8 360.6 867.5 360.7 874.4 365.2 877.7 372.2L997.7 632.2C1000.6 638.4 1000.1 645.6 996.4 651.4 992.7 657.1 986.4 660.6 979.5 660.6H928.8C860.8 852.7 690 980.7 499.7 980.7ZM51 620.6H84.7C93.4 620.6 101.1 626.2 103.7 634.4 163 817.5 322.1 940.6 499.6 940.6 677.1 940.6 836.2 817.6 895.5 634.4 898.2 626.1 905.9 620.6 914.5 620.6H948.3L858.8 426.8 762 620.6H807C814.4 620.6 821.2 624.7 824.6 631.2 828.1 637.7 827.7 645.6 823.6 651.7 757.7 750.5 665.3 815.5 563.3 834.7 557.5 835.8 551.4 834.2 546.8 830.4 542.2 826.6 539.6 821 539.6 815V264.6C539.6 257.5 543.4 250.9 549.6 247.3 580.4 229.5 599.6 196.3 599.6 160.7 599.6 105.6 554.7 60.7 499.6 60.7S399.6 105.5 399.6 160.7C399.6 196.3 418.8 229.5 449.6 247.3 455.8 250.9 459.6 257.5 459.6 264.6V815.1C459.6 821.1 456.9 826.7 452.4 830.5 447.8 834.3 441.7 835.9 435.9 834.8 333.9 815.6 241.5 750.6 175.6 651.8 171.5 645.7 171.1 637.8 174.6 631.3 178.1 624.8 184.9 620.7 192.2 620.7H237.2L140.3 426.9 51 620.6ZM499.7 132.7C484.2 132.7 471.7 145.2 471.7 160.7 471.7 176.2 484.2 188.7 499.7 188.7 515.1 188.7 527.7 176.2 527.7 160.7 527.6 145.2 515.1 132.7 499.7 132.7Z",
+        "width": 1000
+      },
+      "search": [
+        "icon1"
+      ]
+    },
+    {
+      "uid": "cd111cbea384e6fd32792a1ceb6a8df0",
+      "css": "arrow551",
+      "code": 59406,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M770.8 312.1C758.1 305.4 747.2 299.7 739.8 295.1C686.2 261.4 628.5 228.3 568.5 196.7C512.3 167 453.3 138.3 393.2 111.3C377.6 104.3 362.7 95.5 346.8 86.2C320.7 70.8 293.7 54.9 262.5 46.8C233.9 39.3 210.7 44.2 195.4 60.3C174.9 81.8 173.7 116.6 175.3 147.9C177.8 200 178.4 253.4 179.1 305C179.3 329.8 179.6 354.6 180.1 379.4C181 425 181.5 470.6 182 516.3C183.3 634.3 184.6 756.4 193.5 876.7C193.8 880.7 194.6 884.6 196 888.7C199.7 912.2 217.6 928.9 239.5 928.9C245.4 928.9 251.4 927.7 257.3 925.4C372.6 879.8 489.1 812.5 613.5 719.6C666.4 680 720.5 636.3 774.2 589.7C784.1 581.2 797.3 571.9 811.2 562.1C848.4 536 890.6 506.4 904.2 466.9C909.4 451.6 911.7 427.6 892.8 400.2C866.9 362.7 811.4 333.5 770.8 312.1Z",
+        "width": 1000
+      },
+      "search": [
+        "arrow551"
+      ]
+    },
+    {
+      "uid": "11d7bba83918ffc6b0ddf26b977e259e",
+      "css": "flaticon_32341",
+      "code": 59419,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M146.3 853.8C341.3 1048.8 658.6 1048.8 853.6 853.8S1048.6 341.4 853.6 146.4S341.2-48.6 146.3 146.4S-48.8 658.7 146.3 853.8ZM185 185.2C358.7 11.6 641.2 11.6 814.8 185.2C988.4 358.8 988.4 641.3 814.8 815C641.2 988.6 358.6 988.6 185 815C11.4 641.3 11.4 358.8 185 185.2Z",
+        "width": 1000
+      },
+      "search": [
+        "flaticon_32341"
+      ]
+    },
+    {
+      "uid": "d1ceade4408fd1e40cb99c81016477f2",
+      "css": "sun42",
+      "code": 59429,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M891.1 222.8C808.5 116.3 694.5 59.6 569.4 55.4 565.1 53.4 560.5 51.7 554.8 50.9 248 7.6-33.8 282.6 7.6 592.9 41.1 843.6 284.2 990.3 522.9 951.7 734 917.7 952.1 766.6 990.2 544.4 1010.6 424.8 963.1 315.6 891.1 222.8ZM887.8 550.1C852.9 705.5 692.9 807.5 549.1 845.5 377.3 890.9 213.2 824.5 131.7 666 19.1 447 210 184.5 433.6 148.2 444.5 159.5 460.6 166 480.1 161.8 698.3 115.1 939.5 320.3 887.8 550.1Z",
+        "width": 1000
+      },
+      "search": [
+        "sun42"
+      ]
+    }
+  ]
+}
