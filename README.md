@@ -24,7 +24,7 @@ https://youtu.be/44vgOZGa4ZA
  <img src="https://github.com/youssefghamry/DiveIt/blob/main/img/01_DiveIt.jpg">
  
  ## 1
-  <img src="https://github.com/youssefghamry/DiveIt/blob/main/img/02_DiveIt.jpg
+  <img src="https://github.com/youssefghamry/DiveIt/blob/main/img/02_DiveIt.jpg">
 ## 2
   <img src="https://github.com/youssefghamry/DiveIt/blob/main/img/03_DiveIt.jpg">
 ## 3
