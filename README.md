@@ -13,15 +13,23 @@
 - DiveIt Scuba Diving School WordPress Theme has contemporary & functional design. It is created specifically for Scuba Diving School, Lessons, Courses and Center. With lots of customizable features, the theme will be an ideal solution for any outdoors activities related website. The theme can be interesting for sea adventure agency, providing diving, snorkeling, surfing or hiking activities.
 
 
+
+## Watch an explanatory video
+
+https://youtu.be/44vgOZGa4ZA
+
 ## Some project's views on devices
 
 
-
-
-(src/assets/docs-images/finnkino-user-management-laptop.png)
-
-(src/assets/docs-images/finnkino-movie-management-laptop.png)
-
+ <img src="https://github.com/youssefghamry/DiveIt/blob/main/img/01_DiveIt.jpg">
+ 
+ ## 1
+  <img src="https://github.com/youssefghamry/DiveIt/blob/main/img/02_DiveIt.jpg
+## 2
+  <img src="https://github.com/youssefghamry/DiveIt/blob/main/img/03_DiveIt.jpg">
+## 3
+  <img src="https://github.com/youssefghamry/DiveIt/blob/main/img/04_DiveIt.jpg">
+## 4
 
 
 ## Scuba Diving School WordPress Theme features
